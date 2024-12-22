@@ -2,7 +2,7 @@
 # import os
 #
 # # 设置您的OpenAI API密钥
-# client = OpenAI(api_key=os.environ['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'])
+# client = OpenAI(api_key=os.environ['xxx'])
 #
 # # 您想要概括的文本
 # text_to_summarize = """
