@@ -25,10 +25,16 @@
 
 import os
 from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()  # 加载 .env 文件中的环境变量
+
+# 使用环境变量替代硬编码的 API 密钥
+api_key = os.getenv('OPENAI_API_KEY')
 
 client = OpenAI(
     # 若没有配置环境变量，请用百炼API Key将下行替换为：api_key="sk-xxx",
-    api_key="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",
+    api_key=api_key,
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
 )
 completion = client.chat.completions.create(
