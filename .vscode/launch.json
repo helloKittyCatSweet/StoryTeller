@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--verbose",
+                "--web-port=8000",
+                "--web-enable-expression-evaluation",
+                "--disable-service-auth-codes",
+                "--no-fast-start"
+            ],
+            "vmAdditionalArgs": [
+                "--no-enable-dart-profiling"
+            ]
+        }
+    ]
+} 
