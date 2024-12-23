@@ -1,6 +1,6 @@
 # story_teller
 
-This project is based on **Flutter** and has achieved the Android section. You can communicate with a fine-tuned llm model, namely the **Qwen_v2.5_7b_Instruct** model of IFlytek Spark, and it can tell you a fairy tale story in both text and voice mode. As my expense is limited, I only use the free tts(text to voice) service version of the Volcano Large Model, in which case the voice could sound stiff. This model is trained in the English dataset, thus you can talk with it in Chinese and English, but other languages are not fundamentally supported. The dataset I use is a slice of **TinyStories**.
+This project is based on **Flutter** and has achieved the Android section. You can communicate with a fine-tuned llm model, namely the **Qwen_v2.5_7b_Instruct** model of IFlytek Spark, and it can tell you a fairy tale story in both text and voice mode. As my expense is limited, I only use the free tts(text to voice) service version of the Volcano Large Model, in which case the voice could sound stiff. This model is trained in the English dataset, thus you can talk with it in Chinese and English, but other languages are not fundamentally supported. The dataset I use is a slice of **TinyStories**.  
 这个项目基于 **Flutter** 框架，并且已经完成了安卓部分的开发。您可以通过与一个精调的大型语言模型——即科大讯飞火花（IFlytek Spark）的 **Qwen_v2.5_7b_Instruct** 模型进行交互，它能够以文本和语音模式为您讲述童话故事。由于我的经费有限，我只使用了火山大模型的免费文本转语音（TTS）服务版本，在这种情况下，声音可能会显得有些生硬。这个模型是在英文数据集上训练的，因此您可以用中文和英文与它对话，但其他语言基本上不支持。我使用的数据集是 **TinyStories** 的一部分。
 
 ## Prerequisite
