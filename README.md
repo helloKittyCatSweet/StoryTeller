@@ -36,7 +36,7 @@ samples, guidance on mobile development, and a full API reference.
 You can simply test it on Nox adb.
 您可以通过Nox ADB简单地测试它。  
 
-For details about dataset creation, you can check the "Python code" folder yourself. If any questions, you can check CSDN first, or communicate with me whether under my CSDN blog or this repository. I'm really glad to chat with you.
+For details about dataset creation, you can check the "Python code" folder yourself. If any questions, you can check CSDN first, or communicate with me whether under my CSDN blog or this repository. I'm really glad to chat with you.  
 有关数据集创建的详细信息，您可以自己查看“Python code”文件夹。如果有任何问题，您可以先查看CSDN，或者通过我的CSDN博客或此仓库与我交流。我很高兴与您聊天。  
 
 ## Demo presentation
