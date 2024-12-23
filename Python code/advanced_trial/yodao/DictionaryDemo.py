@@ -6,8 +6,8 @@ import requests
 # 有道翻译API配置信息
 YOUDAO_URL = 'https://openapi.youdao.com/api'
 # 获取方式见网址https://ai.youdao.com/doc.s#guide
-APP_KEY = '6d06565ad7dc5296'
-APP_SECRET = 'k0kzt2Kmo3odPUaIeFkWEv0OlOXKHhAl'
+APP_KEY = 'xxx'
+APP_SECRET = 'xxx'
 
 # 常用语言id
 LANGUAGES = {
