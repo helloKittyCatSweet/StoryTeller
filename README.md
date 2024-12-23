@@ -43,7 +43,7 @@ For details about dataset creation, you can check the "Python code" folder yours
 
 ## Demo presentation
 <video width="320" height="240" controls>
-  <source src="./videos/童话故事家app.mp4" type="video/mp4">
+  <source src="[./videos/童话故事家app.mp4](https://github.com/helloKittyCatSweet/StoryTeller/blob/main/videos/%E7%AB%A5%E8%AF%9D%E6%95%85%E4%BA%8B%E5%AE%B6app.mp4)" type="video/mp4">
 </video>
 
 ## Other information to refer to
