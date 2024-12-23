@@ -39,12 +39,8 @@ You can simply test it on Nox adb.
 For details about dataset creation, you can check the "Python code" folder yourself. If any questions, you can check CSDN first, or communicate with me whether under my CSDN blog or this repository. I'm really glad to chat with you.
 有关数据集创建的详细信息，您可以自己查看“Python code”文件夹。如果有任何问题，您可以先查看CSDN，或者通过我的CSDN博客或此仓库与我交流。我很高兴与您聊天。  
 
-=======
-
 ## Demo presentation
-<video width="320" height="240" controls>
-  <source src="https://github.com/helloKittyCatSweet/StoryTeller/blob/main/videos/%E7%AB%A5%E8%AF%9D%E6%95%85%E4%BA%8B%E5%AE%B6app.mp4" type="video/mp4">
-</video>
+https://github.com/helloKittyCatSweet/StoryTeller/blob/main/videos/%E7%AB%A5%E8%AF%9D%E6%95%85%E4%BA%8B%E5%AE%B6app.mp4
 
 ## Other information to refer to
 base trial:  
