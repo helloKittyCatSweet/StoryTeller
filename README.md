@@ -49,5 +49,5 @@ advanced trial:
 https://blog.csdn.net/qq_61897993/article/details/144635398
 
 ## Permission and Authorization
-This project is open source for anyone to use, no matter for an enterprise or an individual.
+This project is open source for anyone to use, no matter for an enterprise or an individual.  
 这个项目是开源的，任何人都可以使用，无论是企业还是个人。
