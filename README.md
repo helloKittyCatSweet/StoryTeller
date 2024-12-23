@@ -8,7 +8,7 @@ This project is based on **Flutter** and has achieved the Android section. You c
 需要一个科大讯飞MAAS（Mobile AI Assistant Service）平台的账户，您可以在该平台上基于各种已发布和成熟的模型进行模型的微调。      
 https://training.xfyun.cn/model/detail/2434949730866176?baseModelInfo=all&useDatasetId=all&listPageSize=6&listPage=1  
 ![image](https://github.com/user-attachments/assets/ddd189c0-9ab2-46c1-b9d4-68acf02111f7)  
-2. An account of IFlytek Open Platform. It is a console where you will create an application, thus you can contribute your fine-tuned model to the application and experience your achievements:
+2. An account of IFlytek Open Platform. It is a console where you will create an application, thus you can contribute your fine-tuned model to the application and experience your achievements:  
 需要一个科大讯飞开放平台的账户。这是一个控制台，您可以在其中创建应用程序，进而将您精调的模型贡献给该应用程序，并体验您的成果。       
 https://console.xfyun.cn/services/sparkapiCenter  
 ![image](https://github.com/user-attachments/assets/4716c16e-c411-4379-a522-908bc96bad6e)  
