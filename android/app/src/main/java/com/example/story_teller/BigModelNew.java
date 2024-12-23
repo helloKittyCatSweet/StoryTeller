@@ -24,10 +24,10 @@ public class BigModelNew extends WebSocketListener {
     // 地址与鉴权信息 wss://spark-api-n.xf-yun.com/v1.1/chat 1.5地址
     // 地址与鉴权信息 wss://spark-api-n.xf-yun.com/v3.1/chat 3.0地址
     public static final String hostUrl = "wss://maas-api.cn-huabei-1.xf-yun.com/v1.1/chat";
-    public static final String appid = "c953c109";
-    public static final String apiSecret = "NWY5ODBkODQ1ODIzMGE0ZTM5ZjhkM2Q2";
-    public static final String apiKey = "b904b234790459bb1cc32fe35fcacde8";
-    public static final String patch_id = "1869288124612243456"; // 调用微调大模型时必传对应resourceId
+    public static final String appid = "xxx";
+    public static final String apiSecret = "xxx";
+    public static final String apiKey = "xxx";
+    public static final String patch_id = "xxx"; // 调用微调大模型时必传对应resourceId
 
     public static List<RoleContent> historyList = new ArrayList<>(); // 对话历史存储集合
 
@@ -75,7 +75,7 @@ public class BigModelNew extends WebSocketListener {
 
                 JSONObject parameter = new JSONObject();
                 JSONObject chat = new JSONObject();
-                chat.put("domain", "xqwen257bchat"); // 微调模型，固定为patch
+                chat.put("domain", "xxx"); // 微调模型，固定为patch
                 chat.put("temperature", 0.5);
                 chat.put("max_tokens", 2048);
                 parameter.put("chat", chat);
