@@ -1,9 +1,9 @@
 import storyFromAI
 
 # 以下密钥信息从控制台获取
-appid = "c953c109"  # 填写控制台中获取的 APPID 信息
-api_secret = "NWY5ODBkODQ1ODIzMGE0ZTM5ZjhkM2Q2"  # 填写控制台中获取的 APISecret 信息
-api_key = "b904b234790459bb1cc32fe35fcacde8"  # 填写控制台中获取的 APIKey 信息
+appid = "xxx"  # 填写控制台中获取的 APPID 信息
+api_secret = "xxx"  # 填写控制台中获取的 APISecret 信息
+api_key = "xxx"  # 填写控制台中获取的 APIKey 信息
 
 # 调用微调大模型时，设置为“patch”
 domain = "xqwen257bchat"
