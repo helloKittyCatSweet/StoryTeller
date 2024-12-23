@@ -22,7 +22,7 @@ import java.util.Map;
 public class TtsWebsocket {
     private static final String TAG = "TtsWebsocket";
     private static final String API_URL = "wss://openspeech.bytedance.com/api/v1/tts/ws_binary";
-    private static final String ACCESS_TOKEN = "onYaEKVb5IFO7r1Q7yFMz9YawZCSw27t";
+    private static final String ACCESS_TOKEN = "xxx";
     private final Context context;
     private final Gson gson = new Gson();
     private TtsWebSocketClient client;
