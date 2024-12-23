@@ -18,7 +18,7 @@ public class TtsRequest {
     }
 
     public static class App {
-        private String appid = "1570971706"; // 替换为你的 appid
+        private String appid = "xxx"; // 替换为你的 appid
         private String cluster = "volcano_tts";
     }
 
